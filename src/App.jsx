@@ -13,7 +13,7 @@ const App = () => {
       date: "2025-04-05",
     },{
       description: "Moringa DH",
-      notes: "Wednesday’s Lunch",
+      notes: "Mondays’s Lunch",
       category: "food",
       amount: 100,
       date: "2025-04-08",
