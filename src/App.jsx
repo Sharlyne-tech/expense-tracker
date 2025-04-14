@@ -9,13 +9,13 @@ const App = () => {
       description: "The trenches",
       notes: "Tokens",
       category: "utilities",
-      amount: 2000,
+      amount: 5000,
       date: "2025-04-05",
     },{
       description: "Moringa DH",
       notes: "Mondays’s Lunch",
       category: "food",
-      amount: 100,
+      amount: 150,
       date: "2025-04-08",
     },
   ]);
